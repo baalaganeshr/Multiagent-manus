@@ -5,12 +5,20 @@ Loads settings from environment variables and YAML configuration.
 
 import os
 from typing import Optional, List
-from pydantic import BaseSettings, Field
+from pydantic_settings import BaseSettings
+from pydantic import Field
 from pathlib import Path
 import yaml
 
 class Settings(BaseSettings):
     """Application settings loaded from environment variables and config files."""
+    
+    model_config = {
+        "extra": "allow",
+        "env_file": ".env",
+        "env_file_encoding": "utf-8",
+        "case_sensitive": True
+    }
     
     # Application Settings
     APP_NAME: str = Field(default="Multiagent-manus", env="APP_NAME")
@@ -227,11 +235,6 @@ class Settings(BaseSettings):
         except Exception as e:
             print(f"Error loading YAML config: {e}")
             return {}
-    
-    class Config:
-        env_file = ".env"
-        env_file_encoding = "utf-8"
-        case_sensitive = True
 
 # Create global settings instance
 settings = Settings()
