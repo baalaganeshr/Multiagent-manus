@@ -1,0 +1,378 @@
+# Configuration for Indian Business Automation Platform
+# Multiagent-manus Settings
+
+# Application Settings
+app:
+  name: "Multiagent-manus"
+  version: "1.0.0"
+  description: "Indian Business Automation Platform"
+  timezone: "Asia/Kolkata"
+  default_language: "hi"  # Hindi
+  supported_languages: ["hi", "en"]
+
+# Business Context
+business:
+  country: "IN"
+  currency: "INR"
+  gst_enabled: true
+  
+  # Business Hours (IST)
+  business_hours:
+    start: "09:00"
+    end: "18:00"
+    days: ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday"]
+    closed_days: ["sunday"]
+  
+  # Indian Festivals and Holidays
+  festivals:
+    major:
+      - name: "Diwali"
+        marketing_boost: 200  # Percentage increase in marketing activity
+        duration_days: 5
+      - name: "Holi"
+        marketing_boost: 150
+        duration_days: 2
+      - name: "Dussehra"
+        marketing_boost: 150
+        duration_days: 3
+      - name: "Eid ul-Fitr"
+        marketing_boost: 150
+        duration_days: 3
+      - name: "Christmas"
+        marketing_boost: 120
+        duration_days: 2
+    
+    regional:
+      - name: "Ganesh Chaturthi"
+        regions: ["Maharashtra", "Karnataka"]
+        marketing_boost: 180
+      - name: "Karva Chauth"
+        regions: ["North India"]
+        marketing_boost: 140
+      - name: "Onam"
+        regions: ["Kerala"]
+        marketing_boost: 160
+
+# Agent Configuration
+agents:
+  # Core Agents
+  orchestrator:
+    enabled: true
+    max_concurrent_tasks: 10
+    task_timeout_minutes: 30
+    retry_attempts: 3
+  
+  customer_communication:
+    enabled: true
+    auto_response: true
+    response_time_target_seconds: 30
+    languages: ["hi", "en"]
+    sentiment_analysis: true
+  
+  quality_control:
+    enabled: true
+    review_threshold: 0.8
+    auto_approve_score: 0.95
+    manual_review_score: 0.7
+  
+  # Website Agents
+  website_builder:
+    enabled: true
+    templates_enabled: true
+    responsive_design: true
+    seo_optimization: true
+    languages: ["hi", "en"]
+    
+    templates:
+      - "business_portfolio"
+      - "ecommerce_store"
+      - "service_provider"
+      - "restaurant_cafe"
+      - "local_business"
+  
+  content_manager:
+    enabled: true
+    auto_translation: true
+    content_optimization: true
+    image_optimization: true
+    regional_content: true
+  
+  seo_optimizer:
+    enabled: true
+    local_seo: true
+    hindi_keywords: true
+    google_my_business: true
+    regional_directories: true
+  
+  # Marketing Agents
+  campaign_manager:
+    enabled: true
+    festival_campaigns: true
+    regional_targeting: true
+    budget_optimization: true
+    roi_tracking: true
+  
+  social_media:
+    enabled: true
+    platforms: ["facebook", "instagram", "twitter", "linkedin", "youtube"]
+    auto_posting: true
+    engagement_tracking: true
+    hashtag_optimization: true
+    regional_content: true
+  
+  local_marketing:
+    enabled: true
+    google_my_business: true
+    local_directories: true
+    community_engagement: true
+    local_events: true
+  
+  # Analytics Agents
+  data_collector:
+    enabled: true
+    real_time_collection: true
+    data_sources: ["website", "social_media", "whatsapp", "payments"]
+    privacy_compliance: true
+  
+  insights_engine:
+    enabled: true
+    ai_powered_insights: true
+    predictive_analytics: true
+    market_trends: true
+    customer_behavior: true
+  
+  report_generator:
+    enabled: true
+    automated_reports: true
+    custom_dashboards: true
+    scheduled_reports: true
+    export_formats: ["pdf", "excel", "csv"]
+
+# WhatsApp Business Configuration
+whatsapp:
+  enabled: true
+  business_verification: true
+  api_version: "v18.0"
+  
+  features:
+    text_messaging: true
+    media_sharing: true
+    template_messages: true
+    interactive_messages: true
+    bulk_messaging: true
+    chatbot: true
+  
+  templates:
+    order_confirmation: true
+    payment_reminder: true
+    delivery_update: true
+    festival_greeting: true
+    appointment_reminder: true
+  
+  auto_responses:
+    greeting: "नमस्ते! आपका स्वागत है। मैं आपकी कैसे सहायता कर सकता हूं?"
+    business_hours_message: "धन्यवाद! हमारे व्यापारिक घंटे सुबह 9 बजे से शाम 6 बजे तक हैं।"
+    after_hours_message: "धन्यवाद! फिलहाल हमारे कार्यालय का समय समाप्त हो गया है। हम कल सुबह आपसे संपर्क करेंगे।"
+
+# Payment Configuration
+payments:
+  enabled: true
+  currency: "INR"
+  
+  # Supported Payment Methods
+  methods:
+    upi: true
+    net_banking: true
+    credit_cards: true
+    debit_cards: true
+    digital_wallets: true
+    emi: true
+    cash_on_delivery: true
+  
+  # UPI Providers
+  upi_providers:
+    primary: "razorpay"
+    backup: "cashfree"
+    supported_apps: ["gpay", "phonepe", "paytm", "bhim", "amazonpay"]
+  
+  # GST Configuration
+  gst:
+    enabled: true
+    rates:
+      electronics: 18
+      clothing: 12
+      food: 5
+      services: 18
+      books: 0
+      medicines: 12
+    
+    compliance:
+      auto_invoice_generation: true
+      gst_return_filing: true
+      hsn_code_mapping: true
+
+# Social Media Configuration
+social_media:
+  platforms:
+    facebook:
+      enabled: true
+      page_management: true
+      ad_campaigns: true
+      messenger_integration: true
+      local_audience: true
+    
+    instagram:
+      enabled: true
+      business_profile: true
+      stories: true
+      reels: true
+      shopping: true
+      influencer_collaboration: true
+    
+    twitter:
+      enabled: true
+      real_time_engagement: true
+      trending_hashtags: true
+      customer_support: true
+    
+    linkedin:
+      enabled: true
+      b2b_networking: true
+      professional_content: true
+      company_page: true
+    
+    youtube:
+      enabled: true
+      video_marketing: true
+      tutorials: true
+      product_demos: true
+      regional_content: true
+
+# Analytics and Monitoring
+analytics:
+  enabled: true
+  real_time: true
+  
+  metrics:
+    website_traffic: true
+    conversion_rates: true
+    customer_acquisition: true
+    revenue_tracking: true
+    social_media_engagement: true
+    whatsapp_metrics: true
+    payment_analytics: true
+  
+  reporting:
+    daily_reports: true
+    weekly_reports: true
+    monthly_reports: true
+    custom_reports: true
+    automated_insights: true
+
+# Security and Compliance
+security:
+  data_encryption: true
+  secure_communications: true
+  api_rate_limiting: true
+  webhook_verification: true
+  
+  compliance:
+    data_privacy: true
+    gdpr_compliance: false  # Not applicable for India-focused business
+    indian_data_protection: true
+    financial_regulations: true
+
+# Logging and Monitoring
+logging:
+  level: "INFO"
+  format: "json"
+  rotation: "daily"
+  retention_days: 30
+  
+  destinations:
+    file: true
+    console: true
+    remote_logging: false
+
+# Performance Settings
+performance:
+  max_concurrent_requests: 100
+  request_timeout_seconds: 30
+  database_connection_pool: 20
+  cache_enabled: true
+  cache_ttl_seconds: 3600
+
+# Development Settings
+development:
+  debug_mode: false
+  test_mode: false
+  mock_external_apis: false
+  detailed_logging: false
+
+# API Configuration
+api:
+  version: "v1"
+  rate_limiting:
+    requests_per_minute: 60
+    burst_limit: 10
+  
+  cors:
+    enabled: true
+    allowed_origins: ["*"]  # Configure properly for production
+  
+  authentication:
+    jwt_enabled: true
+    session_timeout_minutes: 60
+    refresh_token_enabled: true
+
+# Database Configuration
+database:
+  primary: "postgresql"
+  backup_enabled: true
+  connection_pool_size: 20
+  query_timeout_seconds: 30
+  
+  redis:
+    enabled: true
+    cache_enabled: true
+    session_storage: true
+
+# File Storage
+storage:
+  provider: "local"  # Can be "local", "aws_s3", "google_cloud"
+  max_file_size_mb: 10
+  allowed_file_types: ["jpg", "jpeg", "png", "pdf", "doc", "docx", "xls", "xlsx"]
+  
+  media_optimization:
+    image_compression: true
+    auto_resize: true
+    webp_conversion: true
+
+# Notifications
+notifications:
+  email:
+    enabled: true
+    smtp_provider: "gmail"  # Configure with Indian providers
+  
+  sms:
+    enabled: true
+    provider: "aws_sns"  # Or Indian SMS providers
+  
+  push_notifications:
+    enabled: true
+    firebase_enabled: true
+
+# Integrations
+integrations:
+  google_workspace: true
+  microsoft_office: false
+  zoho: true  # Popular in India
+  
+  marketing_tools:
+    google_analytics: true
+    google_ads: true
+    facebook_pixel: true
+    
+  crm:
+    enabled: true
+    provider: "custom"  # Can integrate with popular Indian CRMs
