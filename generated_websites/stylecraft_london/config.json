@@ -1,0 +1,30 @@
+{
+  "business_info": {
+    "name": "StyleCraft London",
+    "description": "I want to launch a premium boutique clothing store in London targeting young professionals",
+    "location": {
+      "city": "Unknown",
+      "country": "US",
+      "state": "Unknown"
+    },
+    "contact": {
+      "phone": "+1-555-0123",
+      "email": "info@business.com",
+      "address": "Your City"
+    },
+    "safe_name": "stylecraft_london"
+  },
+  "template_used": "retail",
+  "features_enabled": [
+    "product_catalog",
+    "inventory_display",
+    "customer_accounts",
+    "loyalty_program"
+  ],
+  "generated_at": "2025-08-04T22:50:58.400115",
+  "colors": {
+    "primary": "#3498DB",
+    "secondary": "#9B59B6",
+    "accent": "#1ABC9C"
+  }
+}

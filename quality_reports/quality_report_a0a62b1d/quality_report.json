@@ -1,0 +1,22 @@
+{
+  "validation_results": {},
+  "consistency_check": {
+    "score": 0.5,
+    "issues": [],
+    "passed_checks": [
+      "Business name consistent across agents"
+    ],
+    "failed_checks": [
+      "Missing SEO or social media strategy alignment"
+    ]
+  },
+  "overall_score": 0.0,
+  "quality_grade": "D (Poor - Requires Revision)",
+  "compliance_status": "Unknown",
+  "next_actions": [
+    "Requires immediate attention - major revisions needed",
+    "Review all failed checks and address issues",
+    "Consider re-running agents with improved inputs"
+  ],
+  "validation_timestamp": "2025-08-05T20:31:13.286348"
+}

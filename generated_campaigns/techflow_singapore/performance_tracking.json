@@ -1,0 +1,33 @@
+{
+  "kpis": {
+    "awareness": [
+      "reach",
+      "impressions",
+      "brand_mentions"
+    ],
+    "engagement": [
+      "likes",
+      "comments",
+      "shares",
+      "click_through_rate"
+    ],
+    "conversion": [
+      "website_visits",
+      "leads",
+      "sales",
+      "roi"
+    ]
+  },
+  "tracking_tools": [
+    "Google Analytics",
+    "Facebook Analytics",
+    "Platform native analytics",
+    "UTM parameters for all links"
+  ],
+  "reporting_frequency": "Weekly for first month, then monthly",
+  "success_metrics": {
+    "month_1": "20% increase in brand awareness",
+    "month_3": "50% increase in website traffic",
+    "month_6": "100% ROI on ad spend"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "business_info": {
+    "name": "London Bistro",
+    "description": "A modern bistro serving international cuisine in London",
+    "location": {
+      "city": "Unknown",
+      "country": "GB",
+      "state": "Unknown"
+    },
+    "contact": {
+      "phone": "+1-555-0123",
+      "email": "info@business.com",
+      "address": "Unknown"
+    },
+    "safe_name": "london_bistro"
+  },
+  "template_used": "service",
+  "features_enabled": [
+    "service_listing",
+    "appointment_booking",
+    "testimonials",
+    "portfolio"
+  ],
+  "generated_at": "2025-08-05T19:59:34.426168",
+  "colors": {
+    "primary": "#2C3E50",
+    "secondary": "#34495E",
+    "accent": "#E67E22"
+  }
+}

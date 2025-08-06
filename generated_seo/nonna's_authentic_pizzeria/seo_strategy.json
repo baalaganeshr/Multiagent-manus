@@ -1,0 +1,260 @@
+{
+  "keyword_strategy": {
+    "primary_keywords": [
+      "restaurant",
+      "dining",
+      "food",
+      "menu",
+      "delivery"
+    ],
+    "local_keywords": [
+      "Nonna's Authentic Pizzeria",
+      "restaurant in Your City",
+      "dining in Your City",
+      "food in Your City",
+      "menu in Your City",
+      "delivery in Your City",
+      "Your City restaurant",
+      "Your City dining",
+      "Your City food",
+      "Your City menu",
+      "Your City delivery",
+      "best restaurant Your City",
+      "best dining Your City",
+      "best food Your City",
+      "best menu Your City",
+      "best delivery Your City"
+    ],
+    "long_tail_keywords": [
+      "food delivery Your City",
+      "dine-in Your City",
+      "takeaway Your City",
+      "catering Your City",
+      "professional restaurant near me",
+      "professional dining near me",
+      "professional food near me",
+      "professional menu near me",
+      "professional delivery near me"
+    ],
+    "competitor_keywords": [],
+    "keyword_difficulty": {
+      "restaurant": "High",
+      "dining": "High",
+      "food": "High",
+      "menu": "High",
+      "delivery": "High"
+    },
+    "search_volume_estimates": {
+      "restaurant": "10K-100K",
+      "dining": "10K-100K",
+      "food": "10K-100K",
+      "menu": "10K-100K",
+      "delivery": "10K-100K"
+    }
+  },
+  "technical_seo": {
+    "page_speed": {
+      "target_load_time": "< 3 seconds",
+      "recommendations": [
+        "Optimize images with WebP format",
+        "Enable GZIP compression",
+        "Minify CSS and JavaScript",
+        "Use CDN for static assets",
+        "Implement lazy loading for images"
+      ]
+    },
+    "mobile_optimization": {
+      "responsive_design": true,
+      "mobile_first_indexing": true,
+      "recommendations": [
+        "Ensure mobile-friendly design",
+        "Test with Google Mobile-Friendly Test",
+        "Optimize touch targets",
+        "Use appropriate font sizes"
+      ]
+    },
+    "site_structure": {
+      "url_structure": "/your city/",
+      "internal_linking": "Implement hierarchical structure",
+      "sitemap": "Generate XML sitemap",
+      "robots_txt": "Configure robots.txt"
+    },
+    "https_ssl": {
+      "required": true,
+      "recommendation": "Install SSL certificate for HTTPS"
+    },
+    "core_web_vitals": {
+      "lcp_target": "< 2.5 seconds",
+      "fid_target": "< 100 milliseconds",
+      "cls_target": "< 0.1"
+    }
+  },
+  "local_seo": {
+    "google_my_business": {
+      "setup_required": true,
+      "optimization_steps": [
+        "Complete business profile",
+        "Add high-quality photos",
+        "Collect customer reviews",
+        "Post regular updates",
+        "Respond to reviews promptly"
+      ]
+    },
+    "local_citations": {
+      "directories": [
+        "Google My Business",
+        "Yelp",
+        "Yellow Pages",
+        "Foursquare"
+      ],
+      "nap_consistency": "Ensure Name, Address, Phone consistency",
+      "priority_citations": [
+        "BBB",
+        "Angie's List",
+        "HomeAdvisor"
+      ]
+    },
+    "review_management": {
+      "platforms": [
+        "Google Reviews",
+        "Yelp",
+        "TripAdvisor"
+      ],
+      "strategy": "Actively request and respond to reviews",
+      "target_rating": "> 4.0 stars"
+    },
+    "local_content": {
+      "location_pages": "Create Your City service pages",
+      "local_keywords": "Target 'Your City + service' keywords",
+      "community_content": "Write about local events and community"
+    },
+    "local_schema": {
+      "local_business": "Implement LocalBusiness schema",
+      "address": "Add address schema markup",
+      "phone": "Add telephone schema markup"
+    }
+  },
+  "content_strategy": {
+    "content_types": [
+      "Menu and pricing pages",
+      "Chef and restaurant story",
+      "Food photography gallery",
+      "Customer reviews and testimonials",
+      "Location and contact information",
+      "Online ordering system",
+      "Catering services page"
+    ],
+    "publishing_schedule": "2-3 new pages per month",
+    "content_optimization": [
+      "Target one primary keyword per page",
+      "Use semantic keywords naturally",
+      "Include location-based keywords",
+      "Add internal linking",
+      "Optimize images with alt text"
+    ],
+    "user_experience": [
+      "Clear navigation structure",
+      "Fast page loading times",
+      "Mobile-responsive design",
+      "Easy contact methods",
+      "Clear call-to-action buttons"
+    ]
+  },
+  "structured_data": {
+    "local_business_schema": {
+      "@context": "https://schema.org",
+      "@type": "Restaurant",
+      "name": "Nonna's Authentic Pizzeria",
+      "description": "Italian restaurant in downtown Boston specializing in authentic Neapolitan pizza",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Your City",
+        "addressRegion": "State",
+        "addressCountry": "US"
+      },
+      "servesCuisine": "International",
+      "acceptsReservations": true
+    },
+    "breadcrumb_schema": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "/"
+        }
+      ]
+    },
+    "organization_schema": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Nonna's Authentic Pizzeria",
+      "url": "",
+      "sameAs": []
+    }
+  },
+  "meta_tags": {
+    "title_tag": "Nonna's Authentic Pizzeria - Restaurant in Your City, US",
+    "meta_description": "Nonna's Authentic Pizzeria offers professional restaurant services in Your City, US. Quality service and customer satisfaction guaranteed. Contact us today!",
+    "meta_keywords": "restaurant, dining, food, menu, delivery",
+    "og_title": "Nonna's Authentic Pizzeria - Your Local Restaurant Expert",
+    "og_description": "Discover Nonna's Authentic Pizzeria, the leading restaurant provider in Your City. Professional service with proven results.",
+    "og_type": "business.business",
+    "twitter_card": "summary_large_image",
+    "canonical_url": "/your city/restaurant/"
+  },
+  "optimization_score": 1.0,
+  "recommendations": [
+    "Focus on advanced technical SEO",
+    "Implement schema markup",
+    "Build high-quality backlinks",
+    "Monitor and optimize performance"
+  ],
+  "implementation_plan": [
+    {
+      "phase": "Foundation (Week 1-2)",
+      "tasks": [
+        "Set up Google My Business",
+        "Install SSL certificate",
+        "Create XML sitemap",
+        "Implement basic meta tags"
+      ]
+    },
+    {
+      "phase": "Content Optimization (Week 3-6)",
+      "tasks": [
+        "Optimize existing pages for target keywords",
+        "Create location-specific content",
+        "Add structured data markup",
+        "Improve internal linking"
+      ]
+    },
+    {
+      "phase": "Local SEO (Week 7-10)",
+      "tasks": [
+        "Build local citations",
+        "Implement review management strategy",
+        "Create local content calendar",
+        "Monitor local rankings"
+      ]
+    },
+    {
+      "phase": "Advanced Optimization (Week 11+)",
+      "tasks": [
+        "Advanced technical SEO audit",
+        "Build quality backlinks",
+        "A/B test title tags and meta descriptions",
+        "Ongoing performance monitoring"
+      ]
+    }
+  ],
+  "target_search_engines": [
+    "Google",
+    "Bing",
+    "Yahoo"
+  ],
+  "business_type": "restaurant",
+  "region": "US"
+}

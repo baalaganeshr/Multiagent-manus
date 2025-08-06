@@ -1,0 +1,49 @@
+{
+  "business_context": {
+    "business_name": "TechCorp Global",
+    "business_type": "service",
+    "description": "Global technology company needs comprehensive business automation",
+    "country": "US",
+    "market_tier": "Premium",
+    "industry_benchmarks": {
+      "website_conversion": 5.8,
+      "bounce_rate": 40.0,
+      "social_engagement": 3.2,
+      "customer_retention": 85.0,
+      "avg_order_value": 450.0
+    },
+    "market_factors": {
+      "digital_adoption": 0.95,
+      "mobile_usage": 0.85,
+      "social_penetration": 0.8
+    },
+    "safe_name": "business_analytics"
+  },
+  "analytics_summary": {
+    "reports_generated": 4,
+    "dashboards_created": 3,
+    "insights_count": 2,
+    "recommendations": 3
+  },
+  "performance_summary": {
+    "overall_score": 78,
+    "performance_grade": "B+",
+    "areas_of_strength": [
+      "Strong website conversion rate",
+      "Effective Google Ads campaigns",
+      "Good customer retention"
+    ],
+    "areas_for_improvement": [
+      "Reduce bounce rate",
+      "Improve mobile experience",
+      "Expand social media presence"
+    ],
+    "benchmark_comparison": {
+      "conversion_rate": "Above average",
+      "bounce_rate": "Slightly above average",
+      "social_engagement": "Below average"
+    },
+    "next_review_date": "2025-09-04"
+  },
+  "generated_at": "2025-08-05T22:50:40.801343"
+}

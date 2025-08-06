@@ -1,0 +1,30 @@
+{
+  "business_info": {
+    "name": "Tech Startup",
+    "description": "Building a tech startup in Singapore",
+    "location": {
+      "city": "Unknown",
+      "country": "US",
+      "state": "Unknown"
+    },
+    "contact": {
+      "phone": "+1-555-0123",
+      "email": "info@business.com",
+      "address": "Your City"
+    },
+    "safe_name": "tech_startup"
+  },
+  "template_used": "tech",
+  "features_enabled": [
+    "product_showcase",
+    "team_profiles",
+    "investor_info",
+    "blog"
+  ],
+  "generated_at": "2025-08-04T22:23:24.238441",
+  "colors": {
+    "primary": "#667EEA",
+    "secondary": "#764BA2",
+    "accent": "#F093FB"
+  }
+}

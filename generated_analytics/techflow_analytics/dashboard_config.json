@@ -1,0 +1,103 @@
+{
+  "executive_dashboard": {
+    "widgets": [
+      {
+        "type": "kpi",
+        "metric": "total_revenue",
+        "value": 77303
+      },
+      {
+        "type": "kpi",
+        "metric": "total_visitors",
+        "value": 53933
+      },
+      {
+        "type": "chart",
+        "chart_type": "line",
+        "data": "revenue_trend"
+      },
+      {
+        "type": "chart",
+        "chart_type": "pie",
+        "data": "traffic_sources"
+      },
+      {
+        "type": "table",
+        "data": "top_pages_performance"
+      }
+    ],
+    "refresh_rate": "real_time",
+    "filters": [
+      "date_range",
+      "business_unit",
+      "geography"
+    ]
+  },
+  "marketing_dashboard": {
+    "widgets": [
+      {
+        "type": "kpi",
+        "metric": "total_impressions",
+        "value": "45.2K"
+      },
+      {
+        "type": "kpi",
+        "metric": "total_clicks",
+        "value": "1.8K"
+      },
+      {
+        "type": "chart",
+        "chart_type": "bar",
+        "data": "channel_performance"
+      },
+      {
+        "type": "chart",
+        "chart_type": "line",
+        "data": "ctr_trends"
+      },
+      {
+        "type": "heatmap",
+        "data": "campaign_performance"
+      }
+    ],
+    "refresh_rate": "hourly",
+    "filters": [
+      "campaign",
+      "channel",
+      "audience"
+    ]
+  },
+  "website_dashboard": {
+    "widgets": [
+      {
+        "type": "kpi",
+        "metric": "bounce_rate",
+        "value": "42.5%"
+      },
+      {
+        "type": "kpi",
+        "metric": "conversion_rate",
+        "value": "4.2%"
+      },
+      {
+        "type": "chart",
+        "chart_type": "area",
+        "data": "traffic_trends"
+      },
+      {
+        "type": "funnel",
+        "data": "conversion_funnel"
+      },
+      {
+        "type": "map",
+        "data": "geographic_distribution"
+      }
+    ],
+    "refresh_rate": "15_minutes",
+    "filters": [
+      "page",
+      "device",
+      "traffic_source"
+    ]
+  }
+}

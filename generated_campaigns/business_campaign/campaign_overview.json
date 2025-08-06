@@ -1,0 +1,66 @@
+{
+  "business_context": {
+    "business_name": "Your Business",
+    "business_type": "service",
+    "description": "Professional services for financial_services company",
+    "country": "US",
+    "market_tier": "Premium",
+    "target_market": "US",
+    "cultural_context": {
+      "tone": "direct, confident, value-focused",
+      "holidays": [
+        "Black Friday",
+        "Cyber Monday",
+        "Thanksgiving",
+        "Christmas"
+      ],
+      "colors": [
+        "red",
+        "blue",
+        "white"
+      ],
+      "messaging": "convenience, quality, innovation"
+    },
+    "budget_range": {
+      "total": {
+        "min": 500,
+        "max": 2000
+      },
+      "social_media": {
+        "min": 200,
+        "max": 800
+      },
+      "google_ads": {
+        "min": 300,
+        "max": 1200
+      }
+    },
+    "safe_name": "business_campaign"
+  },
+  "campaign_summary": {
+    "total_posts": 56,
+    "platforms": [
+      "facebook",
+      "instagram",
+      "linkedin",
+      "twitter"
+    ],
+    "duration": "30 days",
+    "estimated_reach": "28,000-42,000 people",
+    "budget_range": {
+      "total": {
+        "min": 500,
+        "max": 2000
+      },
+      "social_media": {
+        "min": 200,
+        "max": 800
+      },
+      "google_ads": {
+        "min": 300,
+        "max": 1200
+      }
+    }
+  },
+  "generated_at": "2025-08-05T22:50:41.474546"
+}

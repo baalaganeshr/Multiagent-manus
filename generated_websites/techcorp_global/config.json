@@ -1,0 +1,30 @@
+{
+  "business_info": {
+    "name": "TechCorp Global",
+    "description": "Global technology company needs comprehensive business automation",
+    "location": {
+      "city": "Unknown",
+      "country": "US",
+      "state": "Unknown"
+    },
+    "contact": {
+      "phone": "+1-555-0123",
+      "email": "info@business.com",
+      "address": "Unknown"
+    },
+    "safe_name": "techcorp_global"
+  },
+  "template_used": "tech",
+  "features_enabled": [
+    "product_showcase",
+    "team_profiles",
+    "investor_info",
+    "blog"
+  ],
+  "generated_at": "2025-08-05T22:50:40.784138",
+  "colors": {
+    "primary": "#667EEA",
+    "secondary": "#764BA2",
+    "accent": "#F093FB"
+  }
+}

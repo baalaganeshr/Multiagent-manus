@@ -1,0 +1,76 @@
+{
+  "search_campaign": {
+    "campaign_name": "TechFlow - Search",
+    "campaign_type": "search",
+    "keywords": [
+      "service",
+      "consulting",
+      "professional",
+      "business",
+      "expert"
+    ],
+    "ad_groups": [
+      {
+        "name": "Brand Terms",
+        "keywords": [
+          "techflow",
+          "TechFlow service"
+        ],
+        "ads": [
+          {
+            "headline_1": "TechFlow",
+            "headline_2": "Official Service",
+            "description": "Visit TechFlow for the best service experience. Quality guaranteed!"
+          }
+        ]
+      },
+      {
+        "name": "Generic Terms",
+        "keywords": [
+          "service",
+          "consulting",
+          "professional",
+          "business",
+          "expert",
+          "near me",
+          "local",
+          "best"
+        ],
+        "ads": [
+          {
+            "headline_1": "Best Service Service",
+            "headline_2": "Quality & Excellence",
+            "description": "Discover premium service services. Get started today!"
+          }
+        ]
+      }
+    ],
+    "budget_recommendation": "$300-1200/day"
+  },
+  "display_campaign": {
+    "campaign_name": "TechFlow - Display",
+    "campaign_type": "display",
+    "targeting": {
+      "demographics": "25-45 years",
+      "interests": [
+        "Business Services",
+        "Professional Development",
+        "Technology"
+      ],
+      "locations": [
+        "SG"
+      ],
+      "devices": [
+        "mobile",
+        "desktop",
+        "tablet"
+      ]
+    },
+    "ad_formats": [
+      "responsive_display",
+      "image",
+      "video"
+    ],
+    "budget_recommendation": "$150-600/day"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "report_type": "website_analytics",
+  "period": "Last 30 Days",
+  "traffic_overview": {
+    "total_visitors": 53933,
+    "total_page_views": 128135,
+    "avg_bounce_rate": "47.7%",
+    "avg_session_duration": "210 seconds",
+    "pages_per_session": "2.4"
+  },
+  "user_behavior": {
+    "top_pages": [
+      "/home",
+      "/products",
+      "/about",
+      "/contact",
+      "/blog"
+    ],
+    "top_traffic_sources": [
+      "Direct (35%)",
+      "Google Search (25%)",
+      "Social Media (20%)",
+      "Referrals (15%)",
+      "Email (5%)"
+    ],
+    "user_flow": [
+      "Home → Products → Checkout",
+      "Home → About → Contact",
+      "Blog → Products → Home"
+    ],
+    "exit_pages": [
+      "/checkout",
+      "/contact",
+      "/pricing",
+      "/home"
+    ]
+  },
+  "content_performance": {
+    "high_performing_pages": {
+      "/products": {
+        "views": 15420,
+        "engagement": "High",
+        "conversion": "4.2%"
+      },
+      "/home": {
+        "views": 12680,
+        "engagement": "Medium",
+        "conversion": "2.8%"
+      },
+      "/about": {
+        "views": 8930,
+        "engagement": "Medium",
+        "conversion": "1.5%"
+      }
+    },
+    "underperforming_pages": {
+      "/pricing": {
+        "views": 2340,
+        "engagement": "Low",
+        "bounce_rate": "78%"
+      },
+      "/faq": {
+        "views": 1890,
+        "engagement": "Low",
+        "bounce_rate": "65%"
+      }
+    }
+  },
+  "technical_insights": {
+    "page_load_speed": "2.3 seconds (Good)",
+    "mobile_performance": "85/100 (Good)",
+    "seo_score": "78/100 (Needs Improvement)",
+    "core_web_vitals": "Passed 2/3 metrics",
+    "broken_links": 3,
+    "404_errors": 7
+  },
+  "conversion_analysis": {
+    "funnel_performance": {
+      "visitors": 53933,
+      "product_views": 24269,
+      "cart_additions": 8089,
+      "checkouts": 4314,
+      "purchases": 3266
+    },
+    "conversion_rate_by_source": {
+      "direct": "4.2%",
+      "google_search": "3.8%",
+      "social_media": "2.1%",
+      "email": "6.5%"
+    }
+  }
+}

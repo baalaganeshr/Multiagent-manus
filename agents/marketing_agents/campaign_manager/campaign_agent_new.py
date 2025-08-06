@@ -614,10 +614,6 @@ class GlobalMarketingCampaignAgent:
             "A/B test different posting times",
             "Expand to additional platforms based on results"
         ]
-    
-    async def shutdown(self):
-        """Shutdown the campaign manager agent."""
-        logger.info("Global Marketing Campaign Agent shutdown")
 
 
 # Create alias for backward compatibility

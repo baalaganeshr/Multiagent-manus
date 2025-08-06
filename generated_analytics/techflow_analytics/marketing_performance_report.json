@@ -1,0 +1,60 @@
+{
+  "report_type": "marketing_performance",
+  "period": "Last 30 Days",
+  "campaign_overview": {
+    "total_channels": 4,
+    "total_impressions": 1598979,
+    "total_clicks": 32122,
+    "overall_ctr": "4.08%"
+  },
+  "channel_performance": {
+    "google_ads": {
+      "impressions": 889231,
+      "clicks": 18641,
+      "ctr": "4.68%",
+      "avg_cpa": "$25.53",
+      "status": "Excellent"
+    },
+    "facebook_ads": {
+      "impressions": 709748,
+      "clicks": 13481,
+      "ctr": "3.47%",
+      "avg_cpa": "$28.60",
+      "status": "Good"
+    },
+    "social_organic": {
+      "facebook_reach": 470593,
+      "instagram_reach": 348215,
+      "total_social_clicks": 19159,
+      "engagement_rate": "3.43%"
+    }
+  },
+  "audience_insights": {
+    "top_performing_demographics": [
+      "25-34 years",
+      "35-44 years",
+      "Urban areas"
+    ],
+    "best_performing_interests": [
+      "Technology",
+      "Business",
+      "Innovation"
+    ],
+    "optimal_posting_times": [
+      "9-11 AM",
+      "2-4 PM",
+      "7-9 PM"
+    ],
+    "device_breakdown": {
+      "mobile": "65%",
+      "desktop": "30%",
+      "tablet": "5%"
+    }
+  },
+  "optimization_opportunities": [
+    "Increase budget for Google Ads (highest ROI)",
+    "Test video content on Facebook for better engagement",
+    "Expand Instagram Reels content strategy",
+    "Implement lookalike audiences based on top customers"
+  ]
+}

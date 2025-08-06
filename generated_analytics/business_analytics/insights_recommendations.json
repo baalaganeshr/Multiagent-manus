@@ -1,0 +1,48 @@
+{
+  "insights": [
+    {
+      "type": "website_optimization",
+      "severity": "high",
+      "insight": "Bounce rate is 50.9%, which is above the industry average",
+      "impact": "Potential 20% increase in conversions",
+      "action": "Optimize landing pages and improve page load speed"
+    },
+    {
+      "type": "marketing_performance",
+      "severity": "positive",
+      "insight": "Google Ads CTR of 4.69% is excellent",
+      "impact": "High-quality traffic generation",
+      "action": "Increase budget for Google Ads campaigns"
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "website_optimization",
+      "priority": "high",
+      "title": "Improve Page Load Speed",
+      "description": "Optimize images and reduce server response time to improve user experience",
+      "expected_impact": "15-25% reduction in bounce rate",
+      "effort": "medium",
+      "timeline": "2-3 weeks"
+    },
+    {
+      "category": "marketing",
+      "priority": "high",
+      "title": "Implement Retargeting Campaigns",
+      "description": "Create retargeting campaigns for users who visited but didn't convert",
+      "expected_impact": "20-30% increase in conversions",
+      "effort": "low",
+      "timeline": "1 week"
+    },
+    {
+      "category": "business_growth",
+      "priority": "medium",
+      "title": "Launch Email Marketing Automation",
+      "description": "Set up automated email sequences for new customers and cart abandonment",
+      "expected_impact": "$5,000-8,000 additional monthly revenue",
+      "effort": "medium",
+      "timeline": "3-4 weeks"
+    }
+  ],
+  "generated_at": "2025-08-05T22:50:40.807428"
+}

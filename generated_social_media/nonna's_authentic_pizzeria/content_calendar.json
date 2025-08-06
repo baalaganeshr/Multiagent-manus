@@ -1,0 +1,301 @@
+{
+  "calendar": {
+    "Week 1 (Aug 05)": [
+      {
+        "date": "2025-08-05",
+        "day": "Tuesday",
+        "theme": "food_photos",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-06",
+        "day": "Wednesday",
+        "theme": "behind_scenes",
+        "content_type": "educational",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-07",
+        "day": "Thursday",
+        "theme": "customer_reviews",
+        "content_type": "engagement",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-08",
+        "day": "Friday",
+        "theme": "menu_highlights",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-09",
+        "day": "Saturday",
+        "theme": "chef_stories",
+        "content_type": "educational",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-10",
+        "day": "Sunday",
+        "theme": "food_photos",
+        "content_type": "engagement",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-11",
+        "day": "Monday",
+        "theme": "behind_scenes",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      }
+    ],
+    "Week 2 (Aug 12)": [
+      {
+        "date": "2025-08-12",
+        "day": "Tuesday",
+        "theme": "food_photos",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-13",
+        "day": "Wednesday",
+        "theme": "behind_scenes",
+        "content_type": "educational",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-14",
+        "day": "Thursday",
+        "theme": "customer_reviews",
+        "content_type": "engagement",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-15",
+        "day": "Friday",
+        "theme": "menu_highlights",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-16",
+        "day": "Saturday",
+        "theme": "chef_stories",
+        "content_type": "educational",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-17",
+        "day": "Sunday",
+        "theme": "food_photos",
+        "content_type": "engagement",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-18",
+        "day": "Monday",
+        "theme": "behind_scenes",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      }
+    ],
+    "Week 3 (Aug 19)": [
+      {
+        "date": "2025-08-19",
+        "day": "Tuesday",
+        "theme": "food_photos",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-20",
+        "day": "Wednesday",
+        "theme": "behind_scenes",
+        "content_type": "educational",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-21",
+        "day": "Thursday",
+        "theme": "customer_reviews",
+        "content_type": "engagement",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-22",
+        "day": "Friday",
+        "theme": "menu_highlights",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-23",
+        "day": "Saturday",
+        "theme": "chef_stories",
+        "content_type": "educational",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-24",
+        "day": "Sunday",
+        "theme": "food_photos",
+        "content_type": "engagement",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-25",
+        "day": "Monday",
+        "theme": "behind_scenes",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      }
+    ],
+    "Week 4 (Aug 26)": [
+      {
+        "date": "2025-08-26",
+        "day": "Tuesday",
+        "theme": "food_photos",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-27",
+        "day": "Wednesday",
+        "theme": "behind_scenes",
+        "content_type": "educational",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-28",
+        "day": "Thursday",
+        "theme": "customer_reviews",
+        "content_type": "engagement",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-29",
+        "day": "Friday",
+        "theme": "menu_highlights",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-30",
+        "day": "Saturday",
+        "theme": "chef_stories",
+        "content_type": "educational",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-08-31",
+        "day": "Sunday",
+        "theme": "food_photos",
+        "content_type": "engagement",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      },
+      {
+        "date": "2025-09-01",
+        "day": "Monday",
+        "theme": "behind_scenes",
+        "content_type": "promotional",
+        "platforms": [
+          "instagram",
+          "facebook"
+        ]
+      }
+    ]
+  },
+  "content_themes_rotation": [
+    "food_photos",
+    "behind_scenes",
+    "customer_reviews",
+    "menu_highlights",
+    "chef_stories"
+  ],
+  "posting_guidelines": "Rotate content types daily, maintain visual consistency",
+  "approval_process": "Review and approve content 3 days in advance"
+}

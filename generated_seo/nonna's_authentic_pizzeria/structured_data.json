@@ -1,0 +1,35 @@
+{
+  "local_business_schema": {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Nonna's Authentic Pizzeria",
+    "description": "Italian restaurant in downtown Boston specializing in authentic Neapolitan pizza",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Your City",
+      "addressRegion": "State",
+      "addressCountry": "US"
+    },
+    "servesCuisine": "International",
+    "acceptsReservations": true
+  },
+  "breadcrumb_schema": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "/"
+      }
+    ]
+  },
+  "organization_schema": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Nonna's Authentic Pizzeria",
+    "url": "",
+    "sameAs": []
+  }
+}

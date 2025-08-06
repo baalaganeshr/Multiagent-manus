@@ -1,0 +1,193 @@
+{
+  "recommended_platforms": [
+    "instagram",
+    "facebook"
+  ],
+  "content_strategy": {
+    "content_themes": [
+      "food_photos",
+      "behind_scenes",
+      "customer_reviews",
+      "menu_highlights",
+      "chef_stories"
+    ],
+    "content_mix": {
+      "promotional": "30%",
+      "educational": "40%",
+      "engagement": "20%",
+      "user_generated": "10%"
+    },
+    "visual_guidelines": {
+      "brand_colors": "Consistent brand color palette",
+      "image_style": "High-quality, professional photos",
+      "video_format": "Short-form content (15-60 seconds)",
+      "typography": "Readable fonts with brand consistency"
+    },
+    "content_pillars": [
+      "food_photos",
+      "behind_scenes",
+      "customer_reviews",
+      "menu_highlights"
+    ]
+  },
+  "hashtag_strategy": {
+    "hashtag_categories": {
+      "branded": [
+        "#nonna'sauthenticpizzeria",
+        "#nonna'sauthenticpizzeriayour city"
+      ],
+      "local": [
+        "#your city",
+        "#your cityrestaurant",
+        "#usrestaurant"
+      ],
+      "industry": [
+        "#food",
+        "#restaurant",
+        "#local",
+        "#cuisine",
+        "#dining"
+      ],
+      "trending": [
+        "#smallbusiness",
+        "#local",
+        "#community",
+        "#qualityservice"
+      ]
+    },
+    "hashtag_mix": "2 branded + 3 local + 5 industry + 2 trending per post",
+    "hashtag_research": "Monitor trending hashtags weekly",
+    "hashtag_performance": "Track engagement by hashtag monthly"
+  },
+  "posting_schedule": {
+    "platform_schedules": {
+      "instagram": {
+        "frequency": "daily",
+        "best_times": [
+          "11:00 AM",
+          "2:00 PM",
+          "5:00 PM"
+        ],
+        "content_types": [
+          "image",
+          "video",
+          "story",
+          "reel",
+          "igtv"
+        ],
+        "weekly_posts": 7
+      },
+      "facebook": {
+        "frequency": "weekly",
+        "best_times": [
+          "9:00 AM",
+          "1:00 PM",
+          "3:00 PM"
+        ],
+        "content_types": [
+          "text",
+          "image",
+          "video",
+          "link",
+          "event"
+        ],
+        "weekly_posts": 2
+      }
+    },
+    "content_calendar": "Plan content 1 month in advance",
+    "scheduling_tools": [
+      "Buffer",
+      "Hootsuite",
+      "Later",
+      "Creator Studio"
+    ],
+    "review_frequency": "Weekly performance review and adjustment"
+  },
+  "engagement_strategy": {
+    "response_time": "Respond to comments/messages within 2-4 hours",
+    "engagement_tactics": [
+      "Ask questions in captions",
+      "Create polls and interactive content",
+      "Share user-generated content",
+      "Host live Q&A sessions",
+      "Use stories for behind-the-scenes content"
+    ],
+    "community_building": [
+      "Follow and engage with local businesses",
+      "Partner with complementary businesses",
+      "Participate in local hashtags and events",
+      "Create shareable, valuable content"
+    ],
+    "customer_service": [
+      "Monitor mentions and tags",
+      "Address complaints professionally",
+      "Showcase positive reviews",
+      "Provide helpful information"
+    ]
+  },
+  "analytics_strategy": {
+    "key_metrics": {
+      "reach": "Number of unique accounts reached",
+      "engagement": "Likes, comments, shares, saves",
+      "traffic": "Website clicks from social media",
+      "conversions": "Sales/bookings from social media"
+    },
+    "tracking_tools": [
+      "Native platform analytics",
+      "Google Analytics (UTM parameters)",
+      "Social media management tools",
+      "Customer feedback surveys"
+    ],
+    "reporting_frequency": "Weekly metrics review, monthly detailed report",
+    "kpi_targets": {
+      "engagement_rate": "> 3%",
+      "follower_growth": "10-20% monthly",
+      "website_traffic": "5-10% from social media",
+      "response_rate": "< 2 hours average"
+    }
+  },
+  "engagement_score": 0.8999999999999999,
+  "budget_allocation": {
+    "instagram": "60%",
+    "facebook": "40%"
+  },
+  "implementation_steps": [
+    {
+      "week": "Week 1-2: Setup & Optimization",
+      "tasks": [
+        "Set up/optimize business profiles on selected platforms",
+        "Create branded visual templates",
+        "Develop content calendar for first month",
+        "Set up analytics tracking"
+      ]
+    },
+    {
+      "week": "Week 3-4: Content Creation",
+      "tasks": [
+        "Create and schedule first batch of content",
+        "Develop hashtag strategy and lists",
+        "Set up social media management tools",
+        "Begin consistent posting schedule"
+      ]
+    },
+    {
+      "week": "Week 5-8: Engagement & Growth",
+      "tasks": [
+        "Actively engage with audience and local community",
+        "Monitor and respond to comments/messages",
+        "Analyze performance and adjust strategy",
+        "Create user-generated content campaigns"
+      ]
+    },
+    {
+      "week": "Week 9+: Optimization & Scale",
+      "tasks": [
+        "Review analytics and optimize top-performing content",
+        "Expand to additional platforms if budget allows",
+        "Develop advanced strategies (influencer partnerships, ads)",
+        "Create quarterly content strategy reviews"
+      ]
+    }
+  ],
+  "business_type": "restaurant"
+}

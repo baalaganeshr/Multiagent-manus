@@ -1,0 +1,30 @@
+{
+  "business_info": {
+    "name": "Complete Business",
+    "description": "Create a complete business automation solution for a Fortune 500 technology company",
+    "location": {
+      "city": "Unknown",
+      "country": "US",
+      "state": "Unknown"
+    },
+    "contact": {
+      "phone": "+1-555-0123",
+      "email": "info@business.com",
+      "address": "Unknown"
+    },
+    "safe_name": "complete_business"
+  },
+  "template_used": "tech",
+  "features_enabled": [
+    "product_showcase",
+    "team_profiles",
+    "investor_info",
+    "blog"
+  ],
+  "generated_at": "2025-08-05T22:19:08.558543",
+  "colors": {
+    "primary": "#667EEA",
+    "secondary": "#764BA2",
+    "accent": "#F093FB"
+  }
+}

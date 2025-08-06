@@ -1,0 +1,52 @@
+{
+  "report_type": "business_intelligence",
+  "period": "Last 30 Days",
+  "revenue_analysis": {
+    "total_revenue": "$77,303.00",
+    "revenue_growth": "+12.5% vs last month",
+    "avg_daily_revenue": "$2,576.77",
+    "revenue_trend": "Increasing",
+    "top_revenue_days": [
+      "Friday",
+      "Saturday",
+      "Tuesday"
+    ]
+  },
+  "customer_insights": {
+    "total_orders": 1522,
+    "new_customers": 569,
+    "avg_order_value": "$50.79",
+    "customer_retention": "78%",
+    "repeat_purchase_rate": "45%",
+    "customer_lifetime_value": "$162.53"
+  },
+  "market_trends": {
+    "seasonal_patterns": "Peak performance in weekends",
+    "product_trends": [
+      "Increasing demand for premium products",
+      "Mobile orders growing 15%"
+    ],
+    "competitive_position": "Above average in conversion rate",
+    "market_opportunities": [
+      "Expand evening delivery",
+      "Launch loyalty program"
+    ]
+  },
+  "growth_opportunities": {
+    "immediate_actions": [
+      "Optimize checkout process (potential +15% conversion)",
+      "Implement email marketing automation (+$5,000 monthly)",
+      "Launch referral program (+20% new customers)"
+    ],
+    "medium_term_strategies": [
+      "Expand product line based on demand",
+      "Develop mobile app for better user experience",
+      "Create subscription model for recurring revenue"
+    ],
+    "revenue_projections": {
+      "next_month": "$88,898.45",
+      "next_quarter": "$270,560.50",
+      "next_year": "$1,175,005.60"
+    }
+  }
+}

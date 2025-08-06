@@ -1,0 +1,30 @@
+{
+  "business_info": {
+    "name": "A Boutique",
+    "description": "I want to open a Boutique in London",
+    "location": {
+      "city": "Unknown",
+      "country": "US",
+      "state": "Unknown"
+    },
+    "contact": {
+      "phone": "+1-555-0123",
+      "email": "info@business.com",
+      "address": "Your City"
+    },
+    "safe_name": "a_boutique"
+  },
+  "template_used": "retail",
+  "features_enabled": [
+    "product_catalog",
+    "inventory_display",
+    "customer_accounts",
+    "loyalty_program"
+  ],
+  "generated_at": "2025-08-04T22:23:24.232267",
+  "colors": {
+    "primary": "#3498DB",
+    "secondary": "#9B59B6",
+    "accent": "#1ABC9C"
+  }
+}

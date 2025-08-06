@@ -1,0 +1,30 @@
+{
+  "business_info": {
+    "name": "Debug Test",
+    "description": "Debug test in London",
+    "location": {
+      "city": "London",
+      "country": "GB",
+      "state": "England"
+    },
+    "contact": {
+      "phone": "+1-555-0123",
+      "email": "info@business.com",
+      "address": "London"
+    },
+    "safe_name": "debug_test"
+  },
+  "template_used": "service",
+  "features_enabled": [
+    "service_listing",
+    "appointment_booking",
+    "testimonials",
+    "portfolio"
+  ],
+  "generated_at": "2025-08-05T20:05:48.371369",
+  "colors": {
+    "primary": "#2C3E50",
+    "secondary": "#34495E",
+    "accent": "#E67E22"
+  }
+}

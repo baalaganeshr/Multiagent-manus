@@ -1,0 +1,1034 @@
+{
+  "status": "success",
+  "message": "Complete business automation system is now live",
+  "request_type": "complete_automation",
+  "results": {
+    "website": {
+      "status": "success",
+      "message": "Global website setup completed for GB",
+      "components": {
+        "builder": {
+          "status": "success",
+          "agent": "website_builder",
+          "business_type": "service",
+          "business_info": {
+            "name": "Debug Test",
+            "description": "Debug test in London",
+            "location": {
+              "city": "London",
+              "country": "GB",
+              "state": "England"
+            },
+            "contact": {
+              "phone": "+1-555-0123",
+              "email": "info@business.com",
+              "address": "London"
+            },
+            "safe_name": "debug_test"
+          },
+          "website_files": {
+            "files_created": {
+              "index.html": "generated_websites\\debug_test\\index.html",
+              "styles.css": "generated_websites\\debug_test\\styles.css",
+              "script.js": "generated_websites\\debug_test\\script.js",
+              "config.json": "generated_websites\\debug_test\\config.json"
+            },
+            "total_files": 4,
+            "website_directory": "generated_websites\\debug_test",
+            "template_used": "service",
+            "responsive": true,
+            "mobile_optimized": true
+          },
+          "deployment": {
+            "hosting_recommendations": [
+              {
+                "provider": "Netlify",
+                "cost": "Free tier available",
+                "features": [
+                  "Free SSL",
+                  "CDN",
+                  "Forms"
+                ],
+                "deployment_time": "5 minutes"
+              },
+              {
+                "provider": "Vercel",
+                "cost": "Free tier available",
+                "features": [
+                  "Edge Network",
+                  "Analytics",
+                  "Serverless"
+                ],
+                "deployment_time": "3 minutes"
+              },
+              {
+                "provider": "GitHub Pages",
+                "cost": "Free",
+                "features": [
+                  "Git integration",
+                  "Custom domains"
+                ],
+                "deployment_time": "10 minutes"
+              }
+            ],
+            "domain_suggestions": [
+              "debug_test.com",
+              "debug_test.net",
+              "debug_testlondon.com",
+              "londondebug_test.com",
+              "mydebug_test.com"
+            ],
+            "seo_checklist": [
+              "Add Google Analytics",
+              "Set up Google Search Console",
+              "Create Google My Business profile",
+              "Add structured data markup",
+              "Optimize images with alt tags",
+              "Create sitemap.xml"
+            ],
+            "performance_optimizations": [
+              "Images are optimized",
+              "CSS is minified",
+              "JavaScript is efficient",
+              "Mobile-responsive design",
+              "Fast loading times"
+            ]
+          },
+          "features_implemented": [
+            "service_listing",
+            "appointment_booking",
+            "testimonials",
+            "portfolio"
+          ],
+          "estimated_time": "Generated in real-time",
+          "next_steps": [
+            "Review generated website files",
+            "Deploy to hosting platform",
+            "Configure domain and SSL",
+            "Set up analytics and monitoring",
+            "Launch marketing campaigns"
+          ],
+          "file_locations": [
+            "./generated_websites/debug_test/"
+          ]
+        },
+        "content": {
+          "status": "placeholder",
+          "message": "content_manager agent is not yet fully implemented",
+          "agent": "content_manager",
+          "request_type": "complete_automation"
+        },
+        "seo": {
+          "status": "placeholder",
+          "message": "seo_optimizer agent is not yet fully implemented",
+          "agent": "seo_optimizer",
+          "request_type": "complete_automation"
+        }
+      },
+      "features": [
+        "Multi-language support",
+        "Regional payment integration",
+        "Local SEO optimization",
+        "Cultural adaptation",
+        "Mobile-responsive design",
+        "Accessibility compliance"
+      ]
+    },
+    "website_builder": {
+      "status": "success",
+      "agent": "website_builder",
+      "business_type": "service",
+      "business_info": {
+        "name": "Debug Test",
+        "description": "Debug test in London",
+        "location": {
+          "city": "London",
+          "country": "GB",
+          "state": "England"
+        },
+        "contact": {
+          "phone": "+1-555-0123",
+          "email": "info@business.com",
+          "address": "London"
+        },
+        "safe_name": "debug_test"
+      },
+      "website_files": {
+        "files_created": {
+          "index.html": "generated_websites\\debug_test\\index.html",
+          "styles.css": "generated_websites\\debug_test\\styles.css",
+          "script.js": "generated_websites\\debug_test\\script.js",
+          "config.json": "generated_websites\\debug_test\\config.json"
+        },
+        "total_files": 4,
+        "website_directory": "generated_websites\\debug_test",
+        "template_used": "service",
+        "responsive": true,
+        "mobile_optimized": true
+      },
+      "deployment": {
+        "hosting_recommendations": [
+          {
+            "provider": "Netlify",
+            "cost": "Free tier available",
+            "features": [
+              "Free SSL",
+              "CDN",
+              "Forms"
+            ],
+            "deployment_time": "5 minutes"
+          },
+          {
+            "provider": "Vercel",
+            "cost": "Free tier available",
+            "features": [
+              "Edge Network",
+              "Analytics",
+              "Serverless"
+            ],
+            "deployment_time": "3 minutes"
+          },
+          {
+            "provider": "GitHub Pages",
+            "cost": "Free",
+            "features": [
+              "Git integration",
+              "Custom domains"
+            ],
+            "deployment_time": "10 minutes"
+          }
+        ],
+        "domain_suggestions": [
+          "debug_test.com",
+          "debug_test.net",
+          "debug_testlondon.com",
+          "londondebug_test.com",
+          "mydebug_test.com"
+        ],
+        "seo_checklist": [
+          "Add Google Analytics",
+          "Set up Google Search Console",
+          "Create Google My Business profile",
+          "Add structured data markup",
+          "Optimize images with alt tags",
+          "Create sitemap.xml"
+        ],
+        "performance_optimizations": [
+          "Images are optimized",
+          "CSS is minified",
+          "JavaScript is efficient",
+          "Mobile-responsive design",
+          "Fast loading times"
+        ]
+      },
+      "features_implemented": [
+        "service_listing",
+        "appointment_booking",
+        "testimonials",
+        "portfolio"
+      ],
+      "estimated_time": "Generated in real-time",
+      "next_steps": [
+        "Review generated website files",
+        "Deploy to hosting platform",
+        "Configure domain and SSL",
+        "Set up analytics and monitoring",
+        "Launch marketing campaigns"
+      ],
+      "file_locations": [
+        "./generated_websites/debug_test/"
+      ]
+    },
+    "marketing": {
+      "status": "success",
+      "message": "Global marketing automation setup for GB",
+      "components": {
+        "campaigns": {
+          "status": "success",
+          "agent": "campaign_manager",
+          "campaign_created": true,
+          "business_context": {
+            "business_name": "Your Business",
+            "business_type": "general",
+            "description": "Debug test in London",
+            "country": "US",
+            "market_tier": "Premium",
+            "target_market": "US",
+            "cultural_context": {
+              "tone": "direct, confident, value-focused",
+              "holidays": [
+                "Black Friday",
+                "Cyber Monday",
+                "Thanksgiving",
+                "Christmas"
+              ],
+              "colors": [
+                "red",
+                "blue",
+                "white"
+              ],
+              "messaging": "convenience, quality, innovation"
+            },
+            "budget_range": {
+              "total": {
+                "min": 500,
+                "max": 2000
+              },
+              "social_media": {
+                "min": 200,
+                "max": 800
+              },
+              "google_ads": {
+                "min": 300,
+                "max": 1200
+              }
+            },
+            "safe_name": "business_campaign"
+          },
+          "campaign_overview": {
+            "total_posts": 56,
+            "platforms": [
+              "facebook",
+              "instagram",
+              "linkedin",
+              "twitter"
+            ],
+            "duration": "30 days",
+            "estimated_reach": "28,000-42,000 people",
+            "budget_range": {
+              "total": {
+                "min": 500,
+                "max": 2000
+              },
+              "social_media": {
+                "min": 200,
+                "max": 800
+              },
+              "google_ads": {
+                "min": 300,
+                "max": 1200
+              }
+            }
+          },
+          "generated_files": [
+            "generated_campaigns/business_campaign/campaign_overview.json",
+            "generated_campaigns/business_campaign/facebook_content.json",
+            "generated_campaigns/business_campaign/facebook_posts.csv",
+            "generated_campaigns/business_campaign/instagram_content.json",
+            "generated_campaigns/business_campaign/instagram_posts.csv",
+            "generated_campaigns/business_campaign/linkedin_content.json",
+            "generated_campaigns/business_campaign/linkedin_posts.csv",
+            "generated_campaigns/business_campaign/twitter_content.json",
+            "generated_campaigns/business_campaign/twitter_posts.csv",
+            "generated_campaigns/business_campaign/google_ads_setup.json",
+            "generated_campaigns/business_campaign/performance_tracking.json",
+            "generated_campaigns/business_campaign/implementation_guide.md"
+          ],
+          "performance_tracking": {
+            "kpis": {
+              "awareness": [
+                "reach",
+                "impressions",
+                "brand_mentions"
+              ],
+              "engagement": [
+                "likes",
+                "comments",
+                "shares",
+                "click_through_rate"
+              ],
+              "conversion": [
+                "website_visits",
+                "leads",
+                "sales",
+                "roi"
+              ]
+            },
+            "tracking_tools": [
+              "Google Analytics",
+              "Facebook Analytics",
+              "Platform native analytics",
+              "UTM parameters for all links"
+            ],
+            "reporting_frequency": "Weekly for first month, then monthly",
+            "success_metrics": {
+              "month_1": "20% increase in brand awareness",
+              "month_3": "50% increase in website traffic",
+              "month_6": "100% ROI on ad spend"
+            }
+          },
+          "next_steps": [
+            "Set up social media business accounts",
+            "Install Facebook Pixel and Google Analytics",
+            "Create visual content library",
+            "Schedule first week of posts",
+            "Launch Google Ads campaigns",
+            "Monitor performance daily for first week",
+            "Optimize based on initial data",
+            "Scale successful content themes",
+            "A/B test different posting times",
+            "Expand to additional platforms based on results"
+          ]
+        },
+        "social_media": {
+          "status": "placeholder",
+          "message": "social_media agent is not yet fully implemented",
+          "agent": "social_media",
+          "request_type": "complete_automation"
+        },
+        "local_marketing": {
+          "status": "placeholder",
+          "message": "local_marketing agent is not yet fully implemented",
+          "agent": "local_marketing",
+          "request_type": "complete_automation"
+        }
+      },
+      "features": [
+        "Integration with 2 regional platforms",
+        "Cultural holiday campaigns",
+        "Multi-language content creation",
+        "Local influencer collaboration",
+        "Regional advertising optimization",
+        "Cross-platform analytics"
+      ]
+    },
+    "marketing_campaign": {
+      "status": "success",
+      "agent": "campaign_manager",
+      "campaign_created": true,
+      "business_context": {
+        "business_name": "Your Business",
+        "business_type": "general",
+        "description": "Debug test in London",
+        "country": "US",
+        "market_tier": "Premium",
+        "target_market": "US",
+        "cultural_context": {
+          "tone": "direct, confident, value-focused",
+          "holidays": [
+            "Black Friday",
+            "Cyber Monday",
+            "Thanksgiving",
+            "Christmas"
+          ],
+          "colors": [
+            "red",
+            "blue",
+            "white"
+          ],
+          "messaging": "convenience, quality, innovation"
+        },
+        "budget_range": {
+          "total": {
+            "min": 500,
+            "max": 2000
+          },
+          "social_media": {
+            "min": 200,
+            "max": 800
+          },
+          "google_ads": {
+            "min": 300,
+            "max": 1200
+          }
+        },
+        "safe_name": "business_campaign"
+      },
+      "campaign_overview": {
+        "total_posts": 56,
+        "platforms": [
+          "facebook",
+          "instagram",
+          "linkedin",
+          "twitter"
+        ],
+        "duration": "30 days",
+        "estimated_reach": "28,000-42,000 people",
+        "budget_range": {
+          "total": {
+            "min": 500,
+            "max": 2000
+          },
+          "social_media": {
+            "min": 200,
+            "max": 800
+          },
+          "google_ads": {
+            "min": 300,
+            "max": 1200
+          }
+        }
+      },
+      "generated_files": [
+        "generated_campaigns/business_campaign/campaign_overview.json",
+        "generated_campaigns/business_campaign/facebook_content.json",
+        "generated_campaigns/business_campaign/facebook_posts.csv",
+        "generated_campaigns/business_campaign/instagram_content.json",
+        "generated_campaigns/business_campaign/instagram_posts.csv",
+        "generated_campaigns/business_campaign/linkedin_content.json",
+        "generated_campaigns/business_campaign/linkedin_posts.csv",
+        "generated_campaigns/business_campaign/twitter_content.json",
+        "generated_campaigns/business_campaign/twitter_posts.csv",
+        "generated_campaigns/business_campaign/google_ads_setup.json",
+        "generated_campaigns/business_campaign/performance_tracking.json",
+        "generated_campaigns/business_campaign/implementation_guide.md"
+      ],
+      "performance_tracking": {
+        "kpis": {
+          "awareness": [
+            "reach",
+            "impressions",
+            "brand_mentions"
+          ],
+          "engagement": [
+            "likes",
+            "comments",
+            "shares",
+            "click_through_rate"
+          ],
+          "conversion": [
+            "website_visits",
+            "leads",
+            "sales",
+            "roi"
+          ]
+        },
+        "tracking_tools": [
+          "Google Analytics",
+          "Facebook Analytics",
+          "Platform native analytics",
+          "UTM parameters for all links"
+        ],
+        "reporting_frequency": "Weekly for first month, then monthly",
+        "success_metrics": {
+          "month_1": "20% increase in brand awareness",
+          "month_3": "50% increase in website traffic",
+          "month_6": "100% ROI on ad spend"
+        }
+      },
+      "next_steps": [
+        "Set up social media business accounts",
+        "Install Facebook Pixel and Google Analytics",
+        "Create visual content library",
+        "Schedule first week of posts",
+        "Launch Google Ads campaigns",
+        "Monitor performance daily for first week",
+        "Optimize based on initial data",
+        "Scale successful content themes",
+        "A/B test different posting times",
+        "Expand to additional platforms based on results"
+      ]
+    },
+    "analytics": {
+      "status": "success",
+      "message": "Global analytics system setup for GB",
+      "components": {
+        "data_collection": {
+          "status": "success",
+          "agent": "data_collector",
+          "analytics_generated": true,
+          "business_context": {
+            "business_name": "Your Business",
+            "business_type": "service",
+            "description": "Debug test in London",
+            "country": "US",
+            "market_tier": "Premium",
+            "industry_benchmarks": {
+              "website_conversion": 5.8,
+              "bounce_rate": 40.0,
+              "social_engagement": 3.2,
+              "customer_retention": 85.0,
+              "avg_order_value": 450.0
+            },
+            "market_factors": {
+              "digital_adoption": 0.95,
+              "mobile_usage": 0.85,
+              "social_penetration": 0.8
+            },
+            "safe_name": "business_analytics"
+          },
+          "analytics_overview": {
+            "reports_generated": 4,
+            "dashboards_created": 3,
+            "data_sources": 4,
+            "insights_count": 2,
+            "recommendations": 3
+          },
+          "generated_files": [
+            "generated_analytics/business_analytics/analytics_overview.json",
+            "generated_analytics/business_analytics/executive_summary_report.json",
+            "generated_analytics/business_analytics/marketing_performance_report.json",
+            "generated_analytics/business_analytics/website_analytics_report.json",
+            "generated_analytics/business_analytics/business_intelligence_report.json",
+            "generated_analytics/business_analytics/dashboard_config.json",
+            "generated_analytics/business_analytics/sample_data.json",
+            "generated_analytics/business_analytics/insights_recommendations.json",
+            "generated_analytics/business_analytics/csv_exports/website_analytics.csv",
+            "generated_analytics/business_analytics/csv_exports/business_metrics.csv",
+            "generated_analytics/business_analytics/executive_summary.md"
+          ],
+          "key_insights": [
+            {
+              "type": "website_optimization",
+              "severity": "high",
+              "insight": "Bounce rate is 51.2%, which is above the industry average",
+              "impact": "Potential 20% increase in conversions",
+              "action": "Optimize landing pages and improve page load speed"
+            },
+            {
+              "type": "marketing_performance",
+              "severity": "positive",
+              "insight": "Google Ads CTR of 4.59% is excellent",
+              "impact": "High-quality traffic generation",
+              "action": "Increase budget for Google Ads campaigns"
+            }
+          ],
+          "performance_summary": {
+            "overall_score": 78,
+            "performance_grade": "B+",
+            "areas_of_strength": [
+              "Strong website conversion rate",
+              "Effective Google Ads campaigns",
+              "Good customer retention"
+            ],
+            "areas_for_improvement": [
+              "Reduce bounce rate",
+              "Improve mobile experience",
+              "Expand social media presence"
+            ],
+            "benchmark_comparison": {
+              "conversion_rate": "Above average",
+              "bounce_rate": "Slightly above average",
+              "social_engagement": "Below average"
+            },
+            "next_review_date": "2025-09-04"
+          }
+        },
+        "insights": {
+          "status": "placeholder",
+          "message": "insights_engine agent is not yet fully implemented",
+          "agent": "insights_engine",
+          "request_type": "complete_automation"
+        },
+        "reports": {
+          "status": "placeholder",
+          "message": "report_generator agent is not yet fully implemented",
+          "agent": "report_generator",
+          "request_type": "complete_automation"
+        }
+      },
+      "features": [
+        "GDPR/privacy compliance for GB",
+        "Multi-currency revenue tracking",
+        "Regional performance benchmarking",
+        "Cultural behavior analytics",
+        "Local market insights",
+        "Cross-border data management"
+      ]
+    },
+    "data_analytics": {
+      "status": "success",
+      "agent": "data_collector",
+      "analytics_generated": true,
+      "business_context": {
+        "business_name": "Your Business",
+        "business_type": "service",
+        "description": "Debug test in London",
+        "country": "US",
+        "market_tier": "Premium",
+        "industry_benchmarks": {
+          "website_conversion": 5.8,
+          "bounce_rate": 40.0,
+          "social_engagement": 3.2,
+          "customer_retention": 85.0,
+          "avg_order_value": 450.0
+        },
+        "market_factors": {
+          "digital_adoption": 0.95,
+          "mobile_usage": 0.85,
+          "social_penetration": 0.8
+        },
+        "safe_name": "business_analytics"
+      },
+      "analytics_overview": {
+        "reports_generated": 4,
+        "dashboards_created": 3,
+        "data_sources": 4,
+        "insights_count": 2,
+        "recommendations": 3
+      },
+      "generated_files": [
+        "generated_analytics/business_analytics/analytics_overview.json",
+        "generated_analytics/business_analytics/executive_summary_report.json",
+        "generated_analytics/business_analytics/marketing_performance_report.json",
+        "generated_analytics/business_analytics/website_analytics_report.json",
+        "generated_analytics/business_analytics/business_intelligence_report.json",
+        "generated_analytics/business_analytics/dashboard_config.json",
+        "generated_analytics/business_analytics/sample_data.json",
+        "generated_analytics/business_analytics/insights_recommendations.json",
+        "generated_analytics/business_analytics/csv_exports/website_analytics.csv",
+        "generated_analytics/business_analytics/csv_exports/business_metrics.csv",
+        "generated_analytics/business_analytics/executive_summary.md"
+      ],
+      "key_insights": [
+        {
+          "type": "website_optimization",
+          "severity": "high",
+          "insight": "Bounce rate is 51.2%, which is above the industry average",
+          "impact": "Potential 20% increase in conversions",
+          "action": "Optimize landing pages and improve page load speed"
+        },
+        {
+          "type": "marketing_performance",
+          "severity": "positive",
+          "insight": "Google Ads CTR of 4.59% is excellent",
+          "impact": "High-quality traffic generation",
+          "action": "Increase budget for Google Ads campaigns"
+        }
+      ],
+      "performance_summary": {
+        "overall_score": 78,
+        "performance_grade": "B+",
+        "areas_of_strength": [
+          "Strong website conversion rate",
+          "Effective Google Ads campaigns",
+          "Good customer retention"
+        ],
+        "areas_for_improvement": [
+          "Reduce bounce rate",
+          "Improve mobile experience",
+          "Expand social media presence"
+        ],
+        "benchmark_comparison": {
+          "conversion_rate": "Above average",
+          "bounce_rate": "Slightly above average",
+          "social_engagement": "Below average"
+        },
+        "next_review_date": "2025-09-04"
+      }
+    },
+    "communication": {
+      "status": "placeholder",
+      "message": "customer_communication agent is not yet fully implemented",
+      "agent": "customer_communication",
+      "request_type": "complete_automation"
+    },
+    "quality": {
+      "status": "placeholder",
+      "message": "quality_control agent is not yet fully implemented",
+      "agent": "quality_control",
+      "request_type": "complete_automation"
+    }
+  },
+  "integration_package": {
+    "api_endpoints": {
+      "website_management": "/api/v1/website",
+      "marketing_campaigns": "/api/v1/marketing",
+      "analytics_data": "/api/v1/analytics",
+      "customer_communication": "/api/v1/communication",
+      "payment_processing": "/api/v1/payments",
+      "inventory_management": "/api/v1/inventory"
+    },
+    "webhook_configurations": {
+      "payment_notifications": "https://api.yourdomain.com/webhooks/payments",
+      "order_updates": "https://api.yourdomain.com/webhooks/orders",
+      "marketing_events": "https://api.yourdomain.com/webhooks/marketing",
+      "security": {
+        "signature_verification": true,
+        "encryption": "AES-256",
+        "timeout": "30s"
+      },
+      "regional_compliance": {}
+    },
+    "automation_workflows": [
+      {
+        "name": "Customer Onboarding",
+        "trigger": "new_customer_registration",
+        "actions": [
+          "send_welcome_email",
+          "setup_account",
+          "assign_support"
+        ]
+      },
+      {
+        "name": "Order Processing",
+        "trigger": "new_order",
+        "actions": [
+          "payment_verification",
+          "inventory_check",
+          "fulfillment"
+        ]
+      },
+      {
+        "name": "Marketing Automation",
+        "trigger": "customer_behavior",
+        "actions": [
+          "segment_customer",
+          "personalize_content",
+          "send_campaign"
+        ]
+      }
+    ],
+    "monitoring_setup": {
+      "uptime_monitoring": {
+        "intervals": "1 minute",
+        "locations": [
+          "GB",
+          "US",
+          "EU"
+        ],
+        "alerts": [
+          "email",
+          "sms",
+          "webhook"
+        ]
+      },
+      "performance_monitoring": {
+        "metrics": [
+          "response_time",
+          "cpu_usage",
+          "memory_usage",
+          "disk_space"
+        ],
+        "thresholds": {
+          "response_time": "2s",
+          "cpu_usage": "80%",
+          "memory_usage": "85%"
+        }
+      },
+      "security_monitoring": {
+        "intrusion_detection": true,
+        "ddos_protection": true,
+        "vulnerability_scanning": "weekly"
+      }
+    },
+    "backup_strategies": {
+      "frequency": "daily",
+      "retention": "30 days",
+      "encryption": "AES-256",
+      "locations": [
+        "Global-Primary",
+        "Global-Secondary"
+      ],
+      "recovery_time_objective": "4 hours",
+      "recovery_point_objective": "1 hour"
+    },
+    "security_configurations": {
+      "ssl_certificate": "wildcard",
+      "firewall": "web_application_firewall",
+      "ddos_protection": true,
+      "penetration_testing": "quarterly",
+      "compliance_audits": "annual",
+      "data_encryption": {
+        "at_rest": "AES-256",
+        "in_transit": "TLS 1.3"
+      },
+      "access_control": {
+        "multi_factor_authentication": true,
+        "role_based_access": true,
+        "audit_logging": true
+      }
+    }
+  },
+  "global_features": {
+    "multi_currency": true,
+    "multi_language": true,
+    "cultural_adaptation": true,
+    "local_compliance": true,
+    "regional_payment_methods": [
+      "card"
+    ],
+    "supported_platforms": [
+      "Facebook",
+      "Instagram"
+    ]
+  },
+  "setup_timeline": {
+    "phase_1_foundation": {
+      "duration": "1 week",
+      "tasks": [
+        "Infrastructure setup",
+        "Domain configuration",
+        "Basic integrations"
+      ],
+      "deliverables": [
+        "Working environment",
+        "Basic website",
+        "Initial analytics"
+      ]
+    },
+    "phase_2_development": {
+      "duration": "2 weeks",
+      "tasks": [
+        "Feature development",
+        "Payment integration",
+        "Marketing setup"
+      ],
+      "deliverables": [
+        "Full website",
+        "Payment processing",
+        "Marketing campaigns"
+      ]
+    },
+    "phase_3_optimization": {
+      "duration": "1 week",
+      "tasks": [
+        "Performance optimization",
+        "Testing",
+        "Training"
+      ],
+      "deliverables": [
+        "Optimized system",
+        "Test reports",
+        "User training"
+      ]
+    },
+    "ongoing_support": {
+      "duration": "Continuous",
+      "tasks": [
+        "Monitoring",
+        "Updates",
+        "Support"
+      ],
+      "deliverables": [
+        "System maintenance",
+        "Regular reports",
+        "24/7 support"
+      ]
+    }
+  },
+  "total_cost_estimate": {
+    "setup_cost": 7600,
+    "monthly_cost": 760,
+    "currency": "USD",
+    "payment_schedule": "50% advance, 50% on completion",
+    "includes": [
+      "Complete website with e-commerce",
+      "Marketing automation setup",
+      "Analytics and reporting",
+      "Payment integration",
+      "3 months support"
+    ]
+  },
+  "ongoing_support": {
+    "basic_support": {
+      "price": 200,
+      "features": [
+        "Email support",
+        "Monthly reports",
+        "Basic maintenance"
+      ],
+      "response_time": "24 hours"
+    },
+    "premium_support": {
+      "price": 500,
+      "features": [
+        "24/7 phone support",
+        "Weekly reports",
+        "Priority updates",
+        "Performance monitoring"
+      ],
+      "response_time": "2 hours"
+    },
+    "enterprise_support": {
+      "price": 1000,
+      "features": [
+        "Dedicated account manager",
+        "Real-time monitoring",
+        "Custom features",
+        "On-site support"
+      ],
+      "response_time": "30 minutes"
+    },
+    "currency": "USD",
+    "billing_cycle": "monthly"
+  },
+  "request_id": "5c101fb7-859a-42f9-a189-650c3024ca27",
+  "processing_time_seconds": 0.028309,
+  "detected_market": {
+    "location": {
+      "country": "GB",
+      "city": "London",
+      "state": "England",
+      "market_tier": "premium"
+    },
+    "market_tier": "premium",
+    "currency": "USD",
+    "language": "en"
+  },
+  "market_pricing": {
+    "tier": "premium",
+    "currency": "USD",
+    "monthly_packages": {
+      "starter": 200,
+      "professional": 500,
+      "enterprise": 1000
+    },
+    "localized_display": {
+      "starter": {
+        "price": 200,
+        "formatted_price": "USD 200.00",
+        "currency": "USD"
+      },
+      "professional": {
+        "price": 500,
+        "formatted_price": "USD 500.00",
+        "currency": "USD"
+      },
+      "enterprise": {
+        "price": 1000,
+        "formatted_price": "USD 1,000.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "cultural_intelligence": {
+    "upcoming_events": [
+      {
+        "name": "Christmas",
+        "date": "December",
+        "marketing_boost": 200,
+        "type": "religious"
+      },
+      {
+        "name": "Boxing Day",
+        "date": "December 26",
+        "marketing_boost": 250,
+        "type": "shopping"
+      }
+    ],
+    "business_style": "polite_formal",
+    "peak_seasons": {
+      "retail": [
+        "November-December",
+        "January"
+      ],
+      "b2b": [
+        "January-March",
+        "September-October"
+      ]
+    },
+    "marketing_opportunities": [
+      {
+        "event": "Christmas",
+        "opportunity": "200% boost expected",
+        "timeline": "December"
+      },
+      {
+        "event": "Boxing Day",
+        "opportunity": "250% boost expected",
+        "timeline": "December 26"
+      }
+    ]
+  },
+  "market_insights": {
+    "market_opportunity": "High growth potential in digital transformation",
+    "competitive_advantage": "First-mover advantage with AI automation",
+    "recommended_timeline": "3-6 months for full deployment",
+    "success_factors": [
+      "Local market knowledge",
+      "Cultural adaptation",
+      "Digital presence"
+    ]
+  }
+}

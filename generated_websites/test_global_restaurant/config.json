@@ -1,0 +1,31 @@
+{
+  "business_info": {
+    "name": "Test Global Restaurant",
+    "description": "A test restaurant for validation in London",
+    "location": {
+      "city": "London",
+      "country": "GB",
+      "state": "England"
+    },
+    "contact": {
+      "phone": "+1-555-0123",
+      "email": "info@business.com",
+      "address": "London"
+    },
+    "safe_name": "test_global_restaurant"
+  },
+  "template_used": "restaurant",
+  "features_enabled": [
+    "menu_display",
+    "online_ordering",
+    "table_booking",
+    "reviews",
+    "gallery"
+  ],
+  "generated_at": "2025-08-05T20:07:14.573734",
+  "colors": {
+    "primary": "#E74C3C",
+    "secondary": "#F39C12",
+    "accent": "#27AE60"
+  }
+}

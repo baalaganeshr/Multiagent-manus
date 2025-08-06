@@ -1,0 +1,30 @@
+{
+  "business_info": {
+    "name": "Your Business",
+    "description": "Performance test request 5",
+    "location": {
+      "city": "Unknown",
+      "country": "US",
+      "state": "Unknown"
+    },
+    "contact": {
+      "phone": "+1-555-0123",
+      "email": "info@business.com",
+      "address": "Unknown"
+    },
+    "safe_name": "your_business"
+  },
+  "template_used": "service",
+  "features_enabled": [
+    "service_listing",
+    "appointment_booking",
+    "testimonials",
+    "portfolio"
+  ],
+  "generated_at": "2025-08-05T22:19:08.687509",
+  "colors": {
+    "primary": "#2C3E50",
+    "secondary": "#34495E",
+    "accent": "#E67E22"
+  }
+}

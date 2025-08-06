@@ -1,0 +1,36 @@
+{
+  "report_type": "executive_summary",
+  "period": "Last 30 Days",
+  "overview": {
+    "total_visitors": 54335,
+    "total_revenue": "$80,236.00",
+    "conversion_rate": "6.09%",
+    "growth_trend": "Positive"
+  },
+  "key_metrics": {
+    "website_performance": {
+      "visitors": 54335,
+      "page_views": 137591,
+      "bounce_rate": "50.9%",
+      "avg_session_duration": "201 seconds"
+    },
+    "business_performance": {
+      "revenue": 80236,
+      "orders": 1534,
+      "avg_order_value": "$57.89",
+      "new_customers": 538
+    }
+  },
+  "performance_highlights": [
+    "Generated 54,335 website visitors in 30 days",
+    "Achieved $80,236.00 in total revenue",
+    "Maintained 6.09% conversion rate",
+    "Acquired 538 new customers"
+  ],
+  "recommendations": [
+    "Optimize high-traffic pages for better conversion",
+    "Increase marketing spend on best-performing channels",
+    "Implement retargeting campaigns for bounced visitors",
+    "A/B test checkout process to improve conversion rate"
+  ]
+}
